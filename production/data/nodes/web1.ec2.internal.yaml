@@ -1,0 +1,4 @@
+---
+apache::vhosts_port: '80'
+apache::vhosts_root: '/var/www'
+apache::vhosts_servername: 'the-puppet-project.com'
